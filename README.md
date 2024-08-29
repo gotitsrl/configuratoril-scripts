@@ -4,7 +4,12 @@ A collection of ConfiguratorIL public scripts
 ([more details, ConfiguratorIL prodcut Page](https://gotitsrl.com/configuratoril/))
 
 
-##SharpLogic Scripts
+# iLogic Script
 
 
-##JSLogic Scrips
+## SharpLogic Scripts
+
+
+## JSLogic Scrips
+
+

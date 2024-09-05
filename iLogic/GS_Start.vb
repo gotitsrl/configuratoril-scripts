@@ -2,6 +2,7 @@
 
 AddReference "Autodesk.iLogic.UiBuilder.dll"
 'Richiesta di immissione dei parametri
+'Prompt for user input
 
 Dim res As Autodesk.iLogic.UiBuilder.FormReturn 
 
@@ -24,5 +25,3 @@ Else
     doc.Close(True) 
 
 End If
-
-pr.ActivePublication.PublicationComponents[1].Transformation
